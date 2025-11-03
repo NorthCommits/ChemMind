@@ -1,3 +1,19 @@
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.venv/
+runs/
+data/**/processed/
+data/**/cache/
+.ipynb_checkpoints/
+.idea/
+*.pt
+*.pth
+*.ckpt
+*.log
+logs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
